@@ -1,8 +1,8 @@
 ## Экзамен по информатике МИРЭА
 Сайт: https://priem.mirea.ru/first-degree/exams/inner
+Python-online: https://www.onlinegdb.com/online_python_compiler
 
-
-##Сопутствующие видео:
+## Сопутствующие видео:
 
 А1: 
 1. https://www.youtube.com/watch?v=_kB9Y42y-jY&list=PLa2Ie7RlCO_PmixwJMuVQiGqepMW6eAcV&index=14&t=755s 
@@ -18,9 +18,17 @@
 А5:
 1. https://www.youtube.com/watch?v=_ziNpOrJlws&t=272s 
 
+A8:
+1. https://www.youtube.com/watch?v=NHt1iAn17e0&list=PLa2Ie7RlCO_PmixwJMuVQiGqepMW6eAcV&index=7&t=546s
+
+A9:
+1. https://www.youtube.com/watch?v=lfN1zPTUOPE&list=PLa2Ie7RlCO_PmixwJMuVQiGqepMW6eAcV&index=4&t=3s
+
 # Д/з:
 
-Вариант 2019 года, задания А1 - А5
+1. Посмотреть разборы A8 и A9
+2. 2019 год / Вариант 1 / 6 - 9
+3. 2019 год / Вариант 2 / 3 - 5
 
 
 
