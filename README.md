@@ -1,5 +1,6 @@
 ## Экзамен по информатике МИРЭА
 Сайт: https://priem.mirea.ru/first-degree/exams/inner
+
 Python-online: https://www.onlinegdb.com/online_python_compiler
 
 ## Сопутствующие видео:
