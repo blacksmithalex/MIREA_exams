@@ -1,4 +1,6 @@
 ## Экзамен по информатике МИРЭА
+Экзамен 22 августа
+
 Сайт: https://priem.mirea.ru/first-degree/exams/inner
 
 Python-online: https://www.onlinegdb.com/online_python_compiler
@@ -25,7 +27,16 @@ A8:
 A9:
 1. https://www.youtube.com/watch?v=lfN1zPTUOPE&list=PLa2Ie7RlCO_PmixwJMuVQiGqepMW6eAcV&index=4&t=3s
 
+А11:
+1. https://www.youtube.com/watch?v=I4EFiE2IUYo
+
 # Д/з:
+Новое:
+
+1. 2019 год / Вариант 1 / Задания А10 - А13, Б1 - Б3
+
+
+Старое:
 
 1. Посмотреть разборы A8 и A9
 2. 2019 год / Вариант 1 / 6 - 9
