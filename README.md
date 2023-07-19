@@ -30,17 +30,17 @@ A9:
 А11:
 1. https://www.youtube.com/watch?v=I4EFiE2IUYo
 
+Б4:
+1. https://www.youtube.com/watch?v=QvoI476r2lg&list=PLa2Ie7RlCO_PmixwJMuVQiGqepMW6eAcV&index=8&t=778s
+
 # Д/з:
 Новое:
 
-1. 2019 год / Вариант 1 / Задания А10 - А13, Б1 - Б3
+1. 2019 год / Вариант 1 / Б4 - Б6
+2. 2019 год / Вариант 1 / А13, Б3
 
 
-Старое:
 
-1. Посмотреть разборы A8 и A9
-2. 2019 год / Вариант 1 / 6 - 9
-3. 2019 год / Вариант 2 / 3 - 5
 
 
 
