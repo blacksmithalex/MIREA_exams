@@ -36,10 +36,10 @@ A9:
 # Д/з:
 Новое:
 
-1. 2019 год / Вариант 1 / Б4 - Б6
-2. 2019 год / Вариант 1 / А13, Б3
+1. https://pythontutor.ru/lessons/inout_and_arithmetic_operations/
+2. https://pythontutor.ru/lessons/ifelse/
 
-
+Читаешь теорию, делаешь произвольные 2 - 4 задачи из каждой темы
 
 
 
