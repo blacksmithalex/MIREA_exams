@@ -33,9 +33,19 @@ A9:
 Б4:
 1. https://www.youtube.com/watch?v=QvoI476r2lg&list=PLa2Ie7RlCO_PmixwJMuVQiGqepMW6eAcV&index=8&t=778s
 
+Б9:
+1. https://www.youtube.com/watch?v=JJATQm8bkR8&list=PLa2Ie7RlCO_PmixwJMuVQiGqepMW6eAcV&index=13
+2. https://www.youtube.com/watch?v=7l0Db1BBM6s&list=PLa2Ie7RlCO_NSuh586_Ew7pkoFr-NZdFz&index=9&t=5s
+
+Б11:
+1. https://www.youtube.com/watch?v=yNXmGo0L03Q&list=PLa2Ie7RlCO_NSuh586_Ew7pkoFr-NZdFz&index=7
+
 # Д/з:
 Новое:
+1. Задание 13 в личных сообщениях TG
+2. 2019 год / Вариант 1 / Б6 - Б12
 
+Старое:
 1. https://pythontutor.ru/lessons/inout_and_arithmetic_operations/
 2. https://pythontutor.ru/lessons/ifelse/
 
